@@ -1,0 +1,11 @@
+T
+F
+F
+T
+F
+T
+T
+F
+T
+T
+X
